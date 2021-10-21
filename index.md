@@ -17,9 +17,9 @@ ext-js:
 
 # JV Sports {#title}
 
-## FIA Bronze Racing Driver {#subtitle}
+## James Vowles {#subtitle}
 
-#### James Vowles {#sub-subtitle}
+#### FIA Bronze Racing Driver {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -109,7 +109,7 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">About the CEO</div>
+    <div class="section-title">James Vowles</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
