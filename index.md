@@ -91,14 +91,14 @@ ext-js:
   </div>
 </div>
 
-<div id="clients-out" class="page-section cut1">
-  <div id="clients">
-    <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
-    <div id="client-logos">
-      {% for client in site.data.clients %}
-        <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
+<div id="partners-out" class="page-section cut1">
+  <div id="partners">
+    <div class="section-title">partners</div>
+    <div id="partners-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
+    <div id="partners-logos">
+      {% for partners in site.data.partners %}
+        <a class="partners-img" href="{{ partners.url }}" title="{{ partners.name }}">
+          <img alt="{{ partners.name }}" src="/assets/img/logos/{{ partners.img }}" />
         </a>
       {% endfor %}
     </div>

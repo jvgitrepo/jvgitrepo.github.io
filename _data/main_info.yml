@@ -1,10 +1,10 @@
-- icon: fas fa-code
-  content: "**Author of popular packages** [shinyjs](https://deanattali.com/shinyjs) ([featured by RStudio](https://shiny.rstudio.com/articles)), [timevis](https://github.com/daattali/timevis), [addinslist](https://github.com/daattali/addinslist) & [more](https://deanattali.com/projects/#r-packages)"
-- icon: fas fa-users
-  content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
-- icon: fas fa-microphone
-  content: Invited main speaker at **Shiny Developer Conference** hosted by RStudio - [30 min talk](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-shinyjs-deanattali-1080p)
 - icon: fas fa-trophy
-  content: "**Second highest** all-time answerer in the \"shiny\" tag on [StackOverflow](https://stackoverflow.com/tags/shiny/topusers)"
-- icon: fas fa-briefcase
-  content: Previously a **software engineer** at **Google** and top San Francisco startup [Wish.com](https://www.wish.com/)
+  content: "**Over 20 years Formula 1 and Motorsport Experience**"
+- icon: fas fa-trophy
+  content: "8816 World Championships achieved to date, over 100 race wins in Formula 1 as an Engineer**"
+- icon: fas fa-trophy
+  content: "**Racing since 2009, both in the UK and across Europe. Experience with GT4, GT3, LMP3, F4, F3, FRenault**"
+- icon: fas fa-trophy
+  content: "**Fastest GT4 Driver during the Barcelona test, Fastest Bronze GT Driver**"
+- icon: fas fa-trophy
+  content: "**Performance under pressure**"

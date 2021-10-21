@@ -1,3 +1,3 @@
-Website for [AttaliTech Ltd](https://attalitech.com/) - R/Shiny Consultant
+Website for [JV Sports Ltd](https://jv-sports.com/) - FIA Bronza Racing Driver
 
-The website is built using the [Beautiful-Jekyll](https://beautifuljekyll.com/) template by [Dean Attali](https://deanattali.com/)
+The website is built using the [Beautiful-Jekyll](https://beautifuljekyll.com/)
