@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "JV Sports | Competitive FIA Bronza Racing Driver"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,11 +15,11 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# JV Sports {#title}
 
-## R-Shiny Consulting {#subtitle}
+## FIA Bronze Racing Driver {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+#### James Vowles {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -93,8 +93,8 @@ ext-js:
 
 <div id="partners-out" class="page-section cut1">
   <div id="partners">
-    <div class="section-title">partners</div>
-    <div id="partners-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
+    <div class="section-title">Partners</div>
+    <div id="partners-subtitle"></div>
     <div id="partners-logos">
       {% for partners in site.data.partners %}
         <a class="partners-img" href="{{ partners.url }}" title="{{ partners.name }}">
