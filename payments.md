@@ -1,6 +1,6 @@
 ---
 title: "Payment Options"
-share-title: AttaliTech | Payment Options
+share-title: JV Sports | Payment Options
 ---
 
 For any questions regarding payment, please email [payments@attalitech.com](mailto:payments@attalitech.com)
@@ -11,7 +11,7 @@ If paying in **US Dollars**, your options are:
 
   Make payment to [dean@attalitech.com](mailto:dean@attalitech.com)
   {: #zelle .collapse}
-  
+
 - ACH direct deposit <button data-target="#ach" class="btn btn-link" data-toggle="collapse">Details</button>
 
   Bank of America  
@@ -19,7 +19,7 @@ If paying in **US Dollars**, your options are:
   Routing # 125000024  
   Please [email us](mailto:payments@attalitech.com) for the account #
   {: #ach .collapse}
-  
+
 - Physical check <button data-target="#check" class="btn btn-link" data-toggle="collapse">Details</button>
 
   102 Beverley Glen Blvd  
@@ -27,17 +27,17 @@ If paying in **US Dollars**, your options are:
   L4J7V2  
   Canada
   {: #check .collapse}
-  
+
 - Credit card <button data-target="#cc" class="btn btn-link" data-toggle="collapse">Details</button>
 
   If you would like to pay with a credit card, [let us know](mailto:payments@attalitech.com) and we will send you a link to a secure payment page. Note: a 3.50% service fee applies.
   {: #cc .collapse}
-  
+
 - PayPal <button data-target="#paypal" class="btn btn-link" data-toggle="collapse">Details</button>
 
   If you would like to pay with PayPal, [let us know](mailto:payments@attalitech.com) and we will send you a link to a secure payment page. Note: a 3.50% service fee applies.
   {: #paypal .collapse}
-  
+
 - Wire transfer <button data-target="#wire" class="btn btn-link" data-toggle="collapse">Details</button>
 
   **Note: a $30 fee is added to wire transfers. Please add $30 to your payment.**  
@@ -91,14 +91,14 @@ If paying in a **foreign currency**, your options are:
   555 California St   
   San Francisco, CA 94104
   {: #wireforeign .collapse}
-  
+
 <br/><br/>
 
 <div id="faq"></div>
 
 ## Why is there a fee for our consultation call? {#payments-faq-initial-fee}
 
-When you [schedule our first meeting](https://calendly.com/attalitech/meeting) you'll notice that it requires a payment to be made upfront. 
+When you [schedule our first meeting](https://calendly.com/attalitech/meeting) you'll notice that it requires a payment to be made upfront.
 
 Before adding this requirement, several booking were being made every single day; sometimes people did not show up, many of them used the time as a free 1-on-1 Q&A session, and many others were simply not serious enough to go through with any paid work. Since adding the fee, initial meeting requests are down to several per week, which is much more manageable, and nobody shows up with the intention of getting free help.
 

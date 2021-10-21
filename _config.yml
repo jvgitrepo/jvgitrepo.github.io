@@ -1,21 +1,19 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: AttaliTech
+title: JV Sports
 
-author: AttaliTech Ltd
+author: JV Sports Ltd
 
 navbar-links:
-  Services: "/#services"
+
   About Us: "/#aboutus"
-  Clients: "/#clients"
-  Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
 title-img: /assets/img/attalitech-logo-light.png
 
-site-css: "/assets/css/attalitech.css"
+site-css: "/assets/css/jvsports.css"
 
-keywords: "r shiny,shiny developer,shiny consultant,r consultant,shiny apps"
+keywords: "Mercedes, Consultancy, Racing, Motorsport, GT Racing, GT3, GT4, LMP3, Formula 1, F1"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -23,20 +21,17 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  email: "info@jv-sports.com"
+  twitter: jv_f1
+  linkedin: james-vowles-17465664
 
-url-pretty: "AttaliTech.com"
+url-pretty: "jv-sports.com"
 
 footer-img: "/assets/img/footer-bg.png"
 
-google_analytics: "UA-59820529-1"
+#google_analytics: "UA-59820529-1"
 
-timezone: "America/Toronto"
+timezone: "Europe/Lndon"
 markdown: kramdown
 highlighter: rouge
 
@@ -51,7 +46,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "AttaliTech provides world-class R/Shiny consulting. Services include building professional Shiny apps, auditing Shiny code, package building, mentoring and training. Led by renowned expert Dean Attali."
+      share-description: "JV Sports - Competitive FIA Bonza Driver."
       share-img: "/assets/img/attalitech.png"
 
 exclude:

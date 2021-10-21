@@ -1,22 +1,13 @@
 ---
 layout: page
 title: Contact Us
-share-title: AttaliTech | Contact Us
+share-title: JV Sports | Contact Us
 ---
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>enableSubmitContact = function(){ document.getElementById("submit_contact").disabled = false; }</script>
 
-For any R/Shiny consulting inquiries, please email [info@attalitech.com](mailto:info@attalitech.com?subject=Shiny consulting inquiry)
-
-Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
-
-<div style="text-align: center;">
-<a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
-  <span class="far fa-calendar-check" aria-hidden="true"></span>
-  Schedule Meeting
-</a>
-</div>
+For any Racing services please email: [info@jv-sports.com.com](mailto:info@jv-sports.com?subject=Racing)
 
 You can also send us a message using this form:
 
@@ -36,7 +27,7 @@ You can also send us a message using this form:
   </div>
 
   <div class="g-recaptcha" data-sitekey="6Levj9waAAAAAKjnDWEPUfENn91YBRofBG7VxCUP" data-callback="enableSubmitContact"></div>
-  <input type="hidden" name="_feedback.success.title" value="Thanks for contacting AttaliTech, we'll be in touch shortly!" />
+  <input type="hidden" name="_feedback.success.title" value="Thanks for contacting JV Sports, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
 
