@@ -85,7 +85,7 @@ footer {
   color: #3380d4;
 }
 #header-inner {
-  display: inline-block;
+  /*display: inline-block;*/
   background-image: url(/assets/img/header.jpg);
   /*background-size: cover;*/
 }
