@@ -68,8 +68,10 @@ footer {
   background: #05172d;
   padding: 10rem 0 13rem;
   color: #fff;
-  /*background-image: url(/assets/img/header.jpg);
-  background-size: cover;*/
+  background-image: url(/assets/img/header.jpg);
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+
   /*animation: animatedBackground 100s linear infinite;*/
 }
 #header h1,
@@ -86,8 +88,6 @@ footer {
 }
 #header-inner {
   /*display: inline-block;*/
-  background-image: url(/assets/img/header.jpg);
-  /*background-size: cover;*/
 }
 
 #title {
