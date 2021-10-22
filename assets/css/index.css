@@ -43,7 +43,7 @@ footer {
   margin-top: 0;
 }
 
-#particles-js {
+/*#particles-js {
   position: absolute;
   top: 0;
   left: 0;
@@ -61,15 +61,15 @@ footer {
 @keyframes animatedBackground {
     from { background-position: 0 0; }
     to { background-position: -100% 0; }
-}
+}*/
 #header {
   text-align: center;
   margin-top: 3.125rem;
   background: #05172d;
   padding: 10rem 0 13rem;
   color: #fff;
-  background-image: url(/assets/img/header.png);
-  animation: animatedBackground 100s linear infinite;
+  background-image: url(/assets/img/header.jpg);
+  /*animation: animatedBackground 100s linear infinite;*/
 }
 #header h1,
 #header h2 {
