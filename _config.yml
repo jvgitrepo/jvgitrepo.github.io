@@ -4,6 +4,10 @@ title: JV Sports
 
 author: JV Sports Ltd
 
+avatar: "/assets/img/jvlogo.jpg"
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
 navbar-links:
 
   About Us: "/#aboutus"
