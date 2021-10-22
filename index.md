@@ -29,10 +29,6 @@ ext-js:
 
 </div>
 
-<div id="particles-js"></div>
-
-</div>
-
 <div id="main-sections">
 
 <div id="services-out" class="page-section cut1">
