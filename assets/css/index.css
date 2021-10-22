@@ -70,6 +70,7 @@ footer {
   color: #fff;
   background-image: url(/assets/img/header.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   /*animation: animatedBackground 100s linear infinite;*/
 }
 #header h1,
@@ -305,7 +306,7 @@ footer {
 }
 #cta-out {
   margin: 0 auto;
-  background: url(/assets/img/buildings.jpg);
+  background: url(/assets/img/footer.jpg);
   background-size: cover;
   background-position: 0 50%;
   color: #fff;
