@@ -69,7 +69,7 @@ ext-js:
     <div id="news-logos">
       {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.cover-img }}</a>
       </li>
       {% endfor %}
 
