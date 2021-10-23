@@ -68,7 +68,7 @@ ext-js:
     <div id="news-subtitle"></div>
     <div id="news-logos">
       {% for partners in site.data.news %}
-        <a class="partners-img" href="{{ news.url }}" title="{{ news.name }}">
+        <a class="news-img" href="{{ news.url }}" title="{{ news.name }}">
           <img alt="{{ news.name }}" src="/assets/img/News/{{ news.img }}" />
         </a>
       {% endfor %}
