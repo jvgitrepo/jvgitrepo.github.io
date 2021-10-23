@@ -68,7 +68,6 @@ footer {
   background: #05172d;
   padding: 0 0 13rem;
   color: #fff;
-  /*animation: animatedBackground 100s linear infinite;*/
 }
 #header h1,
 #header h2 {
@@ -132,13 +131,13 @@ footer {
 
 @media only screen and (max-width: 1899px) {
   #header {
-    padding: 10rem 0;
+    padding: 0 0;
   }
 }
 
 @media only screen and (max-width: 750px) {
   #header {
-    padding: 4.5rem 0.5rem 5.5rem;
+    padding: 0 0.5rem 5.5rem;
   }
   #title {
     margin: 0 0 -0.625rem;
@@ -184,6 +183,7 @@ footer {
   background-image: url(/assets/img/header.jpg);
   background-repeat: no-repeat;
   background-position: center top
+  /*animation: animatedBackground 100s linear infinite;*/
 }
 .page-section {
   margin-top: -1px;
