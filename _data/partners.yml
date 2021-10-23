@@ -7,12 +7,12 @@
 - name: Bell Helmets
   img: bell.png
   url: https://bellracing.eu/
+- name: Alpinestars
+  img: alpinestars.png
+  url: https://www.alpinestars.com/
 - name: Akka Racing
   img: akka.png
   url: https://www.akka-technologies.com/akka-asp-racing-team/
 - name: GetSpeed Racing
   img: getspeed.png
   url: https://www.getspeed.de/en/homepage/
-- name: Alpinestars
-  img: alpinestars.png
-  url: https://www.alpinestars.com/

@@ -67,7 +67,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      AttaliTech was launched in 2016 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      JV Sports was founded in 2021. James Vowles started working in Formula 1 in 2001, gaining experience in both Race and Test Engineering alongside Race Strategy. Around the busy Formula 1 calendar James has raced around Europe in a mixture of series, from single seaters to LMP3. The goal of JV Sports is to drive with the very best teams, and win Lemans in the newly introduced GT3 category.</b>
     </div>
   </div>
 </div>
