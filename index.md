@@ -11,9 +11,10 @@ ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
 
-<div id="header" class="cut1" markdown="1">
+<div id="header" markdown="1">
 
-<div id="header-inner" markdown="1">
+<div id="header-inner" class="page-section header-image" markdown="1">
+
 
 # JV Sports {#title}
 

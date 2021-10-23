@@ -66,12 +66,8 @@ footer {
   text-align: center;
   margin-top: 3.125rem;
   background: #05172d;
-  padding: 10rem 0 13rem;
+  padding: 0 0 13rem;
   color: #fff;
-  background-image: url(/assets/img/header.jpg);
-  background-repeat: no-repeat;
-  background-position: center top
-
   /*animation: animatedBackground 100s linear infinite;*/
 }
 #header h1,
@@ -184,6 +180,11 @@ footer {
   display: inline-block;
 }
 
+.header-image {
+  background-image: url(/assets/img/header.jpg);
+  background-repeat: no-repeat;
+  background-position: center top
+}
 .page-section {
   margin-top: -1px;
   color: #615d6d;
