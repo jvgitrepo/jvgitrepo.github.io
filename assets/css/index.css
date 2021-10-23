@@ -348,6 +348,39 @@ footer {
   transform: scale(1.1);
 }
 
+#news-subtitle {
+  font-size: 1.8rem;
+  margin: -2.5rem 0 1.875rem;
+  line-height: 1.3;
+}
+#news-logos {
+  margin-top: 4rem;
+}
+#news .news-img {
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0.9375rem;
+  transition: transform 150ms;
+  height: 6rem;
+  width: 15rem;
+}
+@media only screen and (max-width: 650px) {
+  #news .news-img {
+    width: 7rem;
+    height: 3rem;
+    padding: 0.3rem;
+  }
+}
+#news .news-img img {
+  max-height: 100%;
+  max-width: 100%;
+}
+#news .news-img:hover {
+  box-shadow: 0 0 10px #aaa;
+  transform: scale(1.1);
+}
+
 #portfolio-out, .portfolio-buffer {
   background: #f5f5f5;
   background-image: url(/assets/img/maze-bg.png);

@@ -62,6 +62,20 @@ ext-js:
   </div>
 </div>
 
+<div id="news-out" class="page-section cut1">
+  <div id="news">
+    <div class="section-title">Latest News</div>
+    <div id="news-subtitle"></div>
+    <div id="news-logos">
+      {% for partners in site.data.news %}
+        <a class="partners-img" href="{{ news.url }}" title="{{ news.name }}">
+          <img alt="{{ news.name }}" src="/assets/img/News/{{ news.img }}" />
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
 <div class="cut-buffer aboutus-buffer"></div>
 
 <div id="aboutus-out" class="page-section grey-section cut2">
