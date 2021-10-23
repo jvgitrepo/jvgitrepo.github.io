@@ -13,7 +13,7 @@ navbar-links:
   About Us: "/#aboutus"
   Contact Us: "/contact"
 
-title-img: /assets/img/attalitech-logo-light.png
+title-img: /assets/img/jvsportslogo.jpg
 
 site-css: "/assets/css/jvsports.css"
 
@@ -51,7 +51,7 @@ defaults:
       footer-extra: custom_footer.html
       nav-short: true
       share-description: "JV Sports - Competitive FIA Bonza Driver."
-      share-img: "/assets/img/attalitech.png"
+      share-img: "/assets/img/jvlogo.jpg"
 
 exclude:
   - CNAME
