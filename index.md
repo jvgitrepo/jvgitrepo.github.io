@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "JV Sports | Competitive FIA Bronza Racing Driver"
+title: "JV Sports | Competitive FIA Bronze Racing Driver"
 css:
   - /assets/css/index.css
 ext-css:
@@ -33,24 +33,24 @@ ext-js:
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">What We Offer</div>
+    <div class="section-title">JV Sports - Services</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/raceready.jpg" />
+        <div class="service-text">Competitive, race ready FIA International C & FIA Bronze driver</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Expert advice in Shiny, including private tutoring</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/team.jpg" />
+        <div class="service-text">Winning knowhow; with 16 Formula 1 World Championships, and over 100 race wins achieved to date</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/amg.jpg" />
+        <div class="service-text">Rare combination of elite sport engineering, racing and driving experience</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/steeringwheel.jpg" />
+        <div class="service-text">Performance under pressure at the highest level</div>
       </div>
     </div>
 
