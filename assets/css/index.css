@@ -354,7 +354,7 @@ footer {
   line-height: 1.3;
 }
 #news-logos {
-  margin-top: 4rem;
+  margin-top: 1rem;
 }
 #news .news-img {
   text-align: center;
@@ -362,13 +362,13 @@ footer {
   vertical-align: middle;
   padding: 0.9375rem;
   transition: transform 150ms;
-  height: 6rem;
-  width: 15rem;
+  height: 30rem;
+  width: 30rem;
 }
 @media only screen and (max-width: 650px) {
   #news .news-img {
-    width: 7rem;
-    height: 3rem;
+    width: 14rem;
+    height: 6rem;
     padding: 0.3rem;
   }
 }
