@@ -68,7 +68,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      JV Sports was founded in 2021. James Vowles started working in Formula 1 in 2001, gaining experience in both Race and Test Engineering alongside Race Strategy. Around the busy Formula 1 calendar James has raced around Europe in a mixture of series, from single seaters to LMP3. The goal of JV Sports is to drive with the very best teams, and win Lemans in the newly introduced GT3 category.</b>
+      JV Sports was founded in 2021. James Vowles started working in Formula 1 in 2001, gaining experience in both Race and Test Engineering alongside Race Strategy. Around the busy Formula 1 calendar James has raced around Europe in a mixture of series, from single seaters to LMP3. The goal of JV Sports is to drive with the very best teams, and win Lemans in the newly introduced GT3 category.
     </div>
   </div>
 </div>
