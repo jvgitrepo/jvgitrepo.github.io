@@ -21,12 +21,7 @@ You can also send us a message using this form:
     </div>
   </div>
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
-    <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
-    <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>
-  </div>
 
-  <div class="g-recaptcha" data-sitekey="6Lfq8OocAAAAAH-95JmKluxoYSMUfiibMyyDYIxY" data-callback="enableSubmitContact"></div>
   <input type="hidden" name="_feedback.success.title" value="Thanks for contacting JV Sports, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />

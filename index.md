@@ -13,7 +13,7 @@ ext-js:
 
 <div id="header" markdown="1">
 
-<div id="header-inner" class="header-image page-section" markdown="1">
+<div id="header-inner" class="header-image" markdown="1">
 
 
 # JV Sports {#title}
