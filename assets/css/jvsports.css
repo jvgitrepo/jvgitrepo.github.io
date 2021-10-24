@@ -102,21 +102,6 @@ footer a {
 }
 */
 
-@media only screen and (min-width: 980px) {
-  #mailchimp-subscribe-section-scrollbox #mc_embed_signup-scrollbox label {
-    font-size: 1.125rem;
-    margin-bottom: 0.1875rem;
-  }
-  .mailchimp-subscribe-section .email,
-  .mailchimp-subscribe-section .button {
-    height: 2.1875rem;
-  }
-}
-@media only screen and (max-width: 979px) {
-  .mailchimp-subscribe-section .email {
-    margin-bottom: 0.1875rem;
-  }
-}
 
 .navbar-custom {
   border-bottom-color: {{ site.navbar-col | default: "#EAEAEA" }};
@@ -138,6 +123,24 @@ footer a {
   .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
     padding-right: 1rem;
   }
+}
+
+#post-photos {
+  /* Prevent vertical gaps */
+  line-height: 0;
+
+  -webkit-column-count: 5;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    5;
+  -moz-column-gap:      0px;
+  column-count:         5;
+  column-gap:           0px;
+}
+
+#post-photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
 }
 
 /* Buttons */
