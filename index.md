@@ -37,7 +37,7 @@ ext-js:
     <div class="section-title">JV Sports - Services</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/raceready.jpg" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/racereadybw.jpg" />
         <div class="service-text">Competitive, race ready FIA International C & FIA Bronze driver</div>
       </div>
       <div class="service">
