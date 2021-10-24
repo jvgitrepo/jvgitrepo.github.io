@@ -357,21 +357,21 @@ footer {
   margin-top: 1rem;
 }
 #news .news-img {
-  text-align: center;
   display: inline-block;
-  vertical-align: middle;
+  text-align: center;
   padding: 0.9375rem;
   transition: transform 150ms;
+  width: 20rem;
   color: black;
-
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 999px) {
   #news .news-img {
-    width: 14rem;
-    height: 6rem;
+    display: block;
+    width: 27rem;
     padding: 0.3rem;
   }
 }
+
 #news .news-img img {
   max-height: 100%;
   max-width: 100%;
