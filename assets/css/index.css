@@ -362,8 +362,8 @@ footer {
   vertical-align: middle;
   padding: 0.9375rem;
   transition: transform 150ms;
-  height: 18rem;
-  width: 45rem;
+  height: 400px;
+  width: 600px;
   color: black;
 
 }
