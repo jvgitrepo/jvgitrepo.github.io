@@ -363,6 +363,7 @@ footer {
   transition: transform 150ms;
   width: 20rem;
   color: black;
+  vertical-align: top
 }
 @media only screen and (max-width: 999px) {
   #news .news-img {
