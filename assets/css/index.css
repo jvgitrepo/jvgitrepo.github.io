@@ -362,15 +362,13 @@ footer {
   vertical-align: middle;
   padding: 0.9375rem;
   transition: transform 150ms;
-  height: 400px;
-  width: 600px;
   color: black;
 
 }
 @media only screen and (max-width: 650px) {
   #news .news-img {
-    width: 7rem;
-    height: 3rem;
+    width: 14rem;
+    height: 6rem;
     padding: 0.3rem;
   }
 }
