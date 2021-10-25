@@ -129,11 +129,11 @@ footer a {
   /* Prevent vertical gaps */
   line-height: 0;
 
-  -webkit-column-count: 3;
+  -webkit-column-count: 2;
   -webkit-column-gap:   2px;
-  -moz-column-count:    3;
+  -moz-column-count:    2;
   -moz-column-gap:      2px;
-  column-count:         3;
+  column-count:         2;
   column-gap:           2px;
 }
 
@@ -150,7 +150,7 @@ footer a {
   column-count:         2;
   }
 }
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   #post-photos {
   -moz-column-count:    1;
   -webkit-column-count: 1;
