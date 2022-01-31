@@ -20,7 +20,9 @@ ext-js:
 
 ## James Vowles {#subtitle}
 
-#### FIA Bronze Racing Driver {#sub-subtitle}
+<!--#### FIA Bronze Racing Driver {#sub-subtitle} -->
+## Next Race - Asian Le Mans 12-13 February DUBAI
+
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
