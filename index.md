@@ -21,7 +21,7 @@ ext-js:
 ## James Vowles {#subtitle}
 
 <!--#### FIA Bronze Racing Driver {#sub-subtitle} -->
-## Next Race - Asian Le Mans 12-13 February DUBAI
+## Next Event - Paul Ricard Lamborghini GT3 Test
 
 
 <a href="/contact" class="actionbtn">

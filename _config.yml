@@ -51,7 +51,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "JV Sports - Competitive FIA Bonza Driver."
+      share-description: "JV Sports - Competitive FIA Bronze Driver."
       share-img: "/assets/img/jvlogo.jpg"
 
 exclude:
